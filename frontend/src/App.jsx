@@ -1,3 +1,32 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import React from "react";
 import UserProvider from "./context/userContext";
 import {
@@ -11,7 +40,7 @@ import {
 import {Toaster} from 'react-hot-toast';
 import Login from "./pages/Auth/Login";
 import Signup from "./pages/Auth/Signup";
-
+import ProfilePhotoSelector from "./components/Inputs/ProfilePhotoSelector";
 import Home from "./pages/Dashboard/Home";
 import Income from "./pages/Dashboard/Income";
 import Expense from "./pages/Dashboard/Expense";
