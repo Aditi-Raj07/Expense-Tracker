@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A modern and responsive **Expense Tracker web application** built using **React**, **Tailwind CSS**, and **JavaScript**.  
+A modern and responsive **Expense Tracker web application** built using **React**, **Tailwind CSS**,nodejs and **JavaScript**.  
 This app helps users track their daily expenses, categorize spending, and manage their budget efficiently.
 
 ---
@@ -26,6 +26,7 @@ This app helps users track their daily expenses, categorize spending, and manage
 ---
 
 ## 📂 Project Structure
+
 
 
 
